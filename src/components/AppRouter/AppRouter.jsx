@@ -1,6 +1,6 @@
 import React from 'react';
 import {Container} from "@mui/material";
-import {Route, Routes} from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Trending from "../../pages/Trending/Trending";
 import Movies from "../../pages/Movies/Movies";
 import Series from "../../pages/Series/Series";
